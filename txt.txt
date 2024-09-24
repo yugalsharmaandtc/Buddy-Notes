@@ -1,0 +1,1 @@
+mongodb://yugalsharma:<db_password>@<hostname>/?ssl=true&replicaSet=atlas-ibvspj-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Colaborativenotes
